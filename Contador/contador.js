@@ -49,5 +49,5 @@ function fibonacci(a, b, limite, total = 0) {
         console.log("Hay " + total + " números");
     }
 }
-
+yo -
 fibonacci(0, 1, 144);
